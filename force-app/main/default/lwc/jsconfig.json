@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/similarProperties": [
+                "similarProperties/similarProperties.js"
+            ],
+            "c/similarProperty": [
+                "similarProperty/similarProperty.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/brokerCard": [
+                "brokerCard/brokerCard.js"
+            ],
+            "c/formBuilder": [
+                "formBuilder/formBuilder.js"
+            ]
+        }
+    }
+}
